@@ -5,7 +5,7 @@
 import os 
 print(dir(os))
 
-#getcwd() fonksiyonu bulunduğumuz dizinin yolunu söyler.add()
+#getcwd() fonksiyonu bulunduğumuz dizinin yolunu söyler.
 
 print(os.getcwd())
 
@@ -14,7 +14,7 @@ print(os.getcwd())
 os.chdir("C:/Users")
 print(os.getcwd())
 
-# listdir()fonksiyonu bulunduğumuz dizinde klasörleri ve dosyaları listeler.add()
+# listdir()fonksiyonu bulunduğumuz dizinde klasörleri ve dosyaları listeler.
 
 os.chdir("C:/Users")
 print(os.listdir())

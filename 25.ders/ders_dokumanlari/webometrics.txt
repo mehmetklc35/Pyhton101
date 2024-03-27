@@ -1,0 +1,210 @@
+rank, university_name, name_tr
+518, Hacettepe University / Hacettepe Üniversitesi, Hacettepe Üniversitesi / Hacettepe Üniversitesi
+540, Middle East Technical University / Orta Doğu Teknik Üniversitesi, Orta Doğu Teknik Üniversitesi / Orta Doğu Teknik Üniversitesi
+552, Istanbul Technical University / İstanbul Teknik Üniversitesi, İstanbul Teknik Üniversitesi / İstanbul Teknik Üniversitesi
+734, Ankara University, Ankara Üniversitesi
+799, Koç University, Koç Üniversitesi
+858, Istanbul University, İstanbul Üniversitesi
+935, Bilkent University, Bilkent Üniversitesi
+953, Atatürk University, Atatürk Üniversitesi
+1041, Gazi University / Gazi Üniversitesi, Gazi Üniversitesi / Gazi Üniversitesi
+1041, Ege University, Ege Üniversitesi
+1085, Sabanci University, Sabancı Üniversitesi
+1106, Dokuz Eylül University, Dokuz Eylül Üniversitesi
+1117, Marmara University, marmara üniversitesi
+1283, University of Anatolia / Anadolu Üniversitesi, Anadolu Üniversitesi / Anadolu Üniversitesi
+1288, Firat University / Fýrat Üniversitesi, Fırat Üniversitesi / Fırat Üniversitesi
+1294, Sakarya University, Sakarya Üniversitesi
+1305, Erciyes University, Erciyes Üniversitesi
+1388, Akdeniz University, Akdeniz Üniversitesi
+1418, Istanbul Bilgi University, İstanbul Bilgi Üniversitesi
+1440, Uludağ University, Uludağ Üniversitesi
+1475, Karadeniz Technical University / Karadeniz Teknik Üniversitesi, Karadeniz Teknik Üniversitesi / Karadeniz Teknik Üniversitesi
+1482, Ondokuz Mayýs University, Ondokuz Mayıs Üniversitesi
+1573, Çankaya University, Çankaya Üniversitesi
+1598, Bahçeşehir Üniversitesi BAU, Bahçeşehir Üniversitesi BAU
+1649, Cumhuriyet University / Sivas Cumhuriyet Üniversitesi, Cumhuriyet Üniversitesi / Sivas Cumhuriyet Üniversitesi
+1651, Gaziantep University, Gazi Üniversitesi
+1704, Gebze Technological University / Gebze Teknik Üniversitesi, Gebze Teknoloji Üniversitesi / Gebze Teknik Üniversitesi
+1717, Suleyman Demirel University Turkey, Süleyman Demirel Üniversitesi Türkiye
+1745, Özyeğin University, Özyeğin Üniversitesi
+1770, Kocaeli University, Kocaeli Üniversitesi
+1777, Izmir Institute of Technology / İzmir Yüksek Teknoloji Enstitüsü, İzmir Yüksek Teknoloji Enstitüsü / İzmir Yüksek Teknoloji Enstitüsü
+1786, Kirikkale University, Kırıkkale Üniversitesi
+1799, Istanbul Üniversitesi-Cerrahpaşa, İstanbul Üniversitesi-Cerrahpaşa
+1802, Mersin University, Mersin Üniversitesi
+1814, Eskişehir Osmangazi University, Eskisehir Osmangazi Üniversitesi
+1821, Istanbul Aydin University / Ýstanbul Aydýn Üniversitesi, İstanbul Aydın Üniversitesi / İstanbul Aydın Üniversitesi
+1826, Karabük University, Karabük Üniversitesi
+1838, Pamukkale University, Pamukkale Üniversitesi
+1851, Harran University, Harran Üniversitesi
+1877, TOBB Economics and Technology University, TOBB Ekonomi ve Teknoloji Üniversitesi
+1894, Yüzüncü Yil University, Yüzüncü Yıl Üniversitesi
+1982, Çanakkale Onsekyz Mart University, Çanakkale Onsekiz Mart Üniversitesi
+2015, Necmettin Erbakan University Konya, Necmettin Erbakan Üniversitesi Konya
+2047, Yeditepe University, Yeditepe Üniversitesi
+2055, İnönü University Malatya, İnönü Üniversitesi Malatya
+2114, Başkent University, Başkent Üniversitesi
+2118, Abant Izzet Baysal University, Abant İzzet Baysal Üniversitesi
+2122, Istanbul Medipol University, İstanbul Medipol Üniversitesi
+2129, Healh Sciences University Istanbul / Sağlık Bilimleri Üniversitesi, Sağlık Bilimleri Üniversitesi İstanbul / Sağlık Bilimleri Üniversitesi
+2170, Trakya University, Trakya Üniversitesi
+2178, Muğla Sıtkı Koçman Üniversitesi, Muğla Sıtkı Koçman Üniversitesi
+2205, Yildiz Technical University / Yıldız Teknik Üniversitesi, Yıldız Teknik Üniversitesi / Yıldız Teknik Üniversitesi
+2242, Adnan Menderes University, Adnan Menderes Üniversitesi
+2277, Gelişim University / İstanbul Gelişim Üniversitesi, Gelişim Üniversitesi / İstanbul Gelişim Üniversitesi
+2280, İstanbul Medeniyet Üniversitesi, İstanbul Medeniyet Üniversitesi
+2286, Gaziosmanpaşa University / Tokat Gaziosmanpaşa Üniversitesi, Gaziosmanpaşa Üniversitesi / Tokat Gaziosmanpaşa Üniversitesi
+2354, Atilim University, Atılım Üniversitesi
+2358, Afyon Kocatepe University, Afyon Kocatepe Üniversitesi
+2368, Bartin University, Bartın Üniversitesi
+2379, Çukurova University, Çukurova Üniversitesi
+2407, Yaşar University, Yaşar Üniversitesi
+2416, Kafkas University / Kafkas Üniversitesi, Kafkas Üniversitesi / Kafkas Üniversitesi
+2431, Bingöl University, Bingöl Üniversitesi
+2444, Karamanoğlu Mehmetbey University, Karamanoğlu Mehmetbey Üniversitesi
+2473, Giresun University, Giresun Üniversitesi
+2479, Balikesir University, Balıkesir Üniversitesi
+2484, Recep Tayyip Erdoğan University (Rize University) / Recep Tayyip Erdoğan Üniversitesi, Recep Tayyip Erdoğan Üniversitesi (Rize Üniversitesi) / Recep Tayyip Erdoğan Üniversitesi
+2495, Zonguldak Bülent Ecevit Üniversitesi, Zonguldak Bülent Ecevit Üniversitesi
+2517, Bozok University, Bozok Üniversitesi
+2530, Adiyaman University, Adıyaman Üniversitesi
+2535, Selçuk University, Selçuk Üniversitesi
+2543, Namik Kemal University, Namık Kemal Üniversitesi
+2550, Kahramanmaraş Sütçü İmam University / Kahramanmaraş Sütçü İmam Üniversitesi, Kahramanmaraş Sütçü İmam Üniversitesi / Kahramanmaraş Sütçü İmam Üniversitesi
+2559, Kastamonu University, Kastamonu Üniversitesi
+2561, Yıldırım Beyazıt University / Ankara Yıldırım Beyazıt Üniversitesi, Yıldırım Beyazıt Üniversitesi / Ankara Yıldırım Beyazıt Üniversitesi
+2573, Nigde Omer Halisdemir University, Niğde Ömer Halisdemir Üniversitesi
+2598, Dicle University, Dicle Üniversitesi
+2638, Kadir Has University, Kadir Has Üniversitesi
+2648, Uskudar University / Üsküdar Üniversitesi, Üsküdar Üniversitesi / Üsküdar Üniversitesi
+2649, Mehmet Akif Ersoy University, Mehmet Akif Ersoy Üniversitesi
+2654, Izmir University of Economics / İzmir Ekonomi Üniversitesi, İzmir Ekonomi Üniversitesi / İzmir Ekonomi Üniversitesi
+2665, Beykent University, Beykent Üniversitesi
+2715, Acibadem University / Acıbadem Üniversitesi, Acıbadem Üniversitesi / Acıbadem Üniversitesi
+2721, Sinop University, Sinop Üniversitesi
+2723, Izmir Katip Celebi University / İzmir Kâtip Çelebi Üniversitesi, İzmir Katip Çelebi Üniversitesi / İzmir Kâtip Çelebi Üniversitesi
+2732, Dumlupinar University / T C Kütahya Dumlupınar Üniversitesi, Dumlupınar Üniversitesi / T C Kütahya Dumlupınar Üniversitesi
+2732, Aksaray University, Aksaray Üniversitesi
+2767, Selçuk Kemal University, Selçuk Kemal Üniversitesi
+2805, Hasan Kalyoncu University (Gazikent University), Hasan Kalyoncu Üniversitesi (Gazikent Üniversitesi)
+2819, Biruni Üniversitesi, Biruni Üniversitesi
+2834, Hitit University, Hitit Üniversitesi
+2888, Siirt University, Siirt Üniversitesi
+2890, Ahi Evran University, Ahi Evran Üniversitesi
+2922, Mimar Sinan Fine Arts University, Mimar Sinan Güzel Sanatlar Üniversitesi
+2969, Uşak University, Uşak Üniversitesi
+2970, T C Ordu University / T.C. Ordu Üniversitesi, T C Ordu Üniversitesi / T.C. Ordu Üniversitesi
+2976, Bursa Teknik Üniversitesi, Bursa Teknik Üniversitesi
+2986, Nevşehir University / Nevşehir Hacı Bektaş Veli Üniversitesi, Nevşehir Üniversitesi / Nevşehir Hacı Bektaş Veli Üniversitesi
+3021, Istanbul Commerce University / İstanbul Ticaret Üniversitesi, İstanbul Ticaret Üniversitesi / İstanbul Ticaret Üniversitesi
+3065, Bezmialem Vakif University / Bezmiâlem Vakıf Üniversitesi, Bezmialem Vakıf Üniversitesi / Bezmiâlem Vakıf Üniversitesi
+3082, Çankiri Karatekin University, Çankırı Karatekin Üniversitesi
+3193, Nişantaşı Üniversitesi, Nişantaşı Üniversitesi
+3215, Iğdır University, Iğdır Üniversitesi
+3247, Galatasaray University, Galatasaray Üniversitesi
+3263, Abdullah Gül University Kayseri, Abdullah Gül Üniversitesi Kayseri
+3282, Istanbul Kültür University, İstanbul Kültür Üniversitesi
+3294, Düzce University, Düzce Üniversitesi
+3294, Okan University / İstanbul Okan Üniversitesi, Okan Üniversitesi / İstanbul Okan Üniversitesi
+3427, Piri Reis University, Piri Reis Üniversitesi
+3434, Agri Mountain University / Ağrı İbrahim Çeçen University, Ağrı Dağ Üniversitesi / Ağrı İbrahim Çeçen Üniversitesi
+3434, Gümüşhane University / Gümüşhane Üniversitesi, Gümüşhane Üniversitesi / Gümüşhane Üniversitesi
+3434, Istanbul Sabahattin Zaim University, İstanbul Sabahattin Zaim Üniversitesi
+3442, Kirklareli University, Kırklareli Üniversitesi
+3488, Batman University, Batman Üniversitesi
+3506, Osmaniye Korkut Ata University, Osmaniye Korkut Ata Üniversitesi
+3540, Işık University, Işık Üniversitesi
+3612, Şırnak University, Şırnak Üniversitesi
+3617, Muş Alparslan University, Muş Alparslan Üniversitesi
+3622, Yalova University, Yalova Üniversitesi
+3650, TED University, TED Üniversitesi
+3660, Doğuş University, Doğuş Üniversitesi
+3670, Erzurum Teknik Üniversitesi, Erzurum Teknik Üniversitesi
+3693, Erzincan Binali Yıldırım Üniversitesi, Erzincan Binali Yıldırım Üniversitesi
+3701, KTO Karatay University, KTO Karatay Üniversitesi
+3707, Artvin Çoruh University, Artvin Çoruh Üniversitesi
+3741, Çağ University, Çağ Üniversitesi
+3749, Bayburt University, Bayburt Üniversitesi
+3751, Manisa Celal Bayar University, Manisa Celal Bayar Üniversitesi
+4159, Adana Alparslan Türkeş Bilim ve Teknoloji Üniversitesi / Adana Alparslan Türkeş Science and Technology University, Adana Alparslan Türkeş Bilim ve Teknoloji Üniversitesi / Adana Alparslan Türkeş Bilim ve Teknoloji Üniversitesi
+4245, Bilecik Şeyh Edebali Üniversitesi, Bilecik Şeyh Edebali Üniversitesi
+4287, Iskenderun Technical University / İskenderun Teknik Üniversitesi, İskenderun Teknik Üniversitesi / İskenderun Teknik Üniversitesi
+4302, Bitlis Eren University / Bitlis Eren Üniversitesi, Bitlis Eren Üniversitesi / Bitlis Eren Üniversitesi
+4406, İstanbul MEF Üniversitesi, İstanbul MEF Üniversitesi
+4502, Afyonkarahisar Sağlik Bilimleri Üniversitesi / Afyonkarahisar Health Sciences University, Afyonkarahisar Sağlık Bilimleri Üniversitesi / Afyonkarahisar Sağlık Bilimleri Üniversitesi
+4538, Amasya University, Amasya Üniversitesi
+4676, Maltepe University, Maltepe Üniversitesi
+4748, Ufuk University, Ufuk Üniversitesi
+4803, Kütahya Sağlik Bilimleri Üniversitesi, Kütahya Sağlık Bilimleri Üniversitesi
+5261, Istanbul Arel University, İstanbul Arel Üniversitesi
+5419, Ankara Hacı Bayram Veli University / Ankara Hacı Bayram Veli Üniversitesi, Ankara Hacı Bayram Veli Üniversitesi / Ankara Hacı Bayram Veli Üniversitesi
+5893, Demiroğlu Bilim Üniversitesi, Demiroğlu Bilim Üniversitesi
+6249, İzmir Democracy University / İzmir Demokrasi Üniversitesi, İzmir Demokrasi Üniversitesi / İzmir Demokrasi Üniversitesi
+6620, Istanbul Gedik University, İstanbul Gedik Üniversitesi
+6623, Haliç University, Haliç Üniversitesi
+6640, İstinye Üniversitesi / Istinye University, İstinye Üniversitesi / İstinye Üniversitesi
+6666, Istanbul Atlas Üniversitesi, İstanbul Atlas Üniversitesi
+6757, Altınbaş Üniversitesi, Altınbaş Üniversitesi
+6790, Eskişehir Technical University / Eskişehir Teknik Üniversitesi, Eskisehir Teknik Üniversitesi / Eskisehir Teknik Üniversitesi
+6794, Fatih Sultan Mehmet University / Fatih Sultan Mehmet Vakıf Üniversitesi, Fatih Sultan Mehmet Üniversitesi / Fatih Sultan Mehmet Vakıf Üniversitesi
+6870, Mardin Artuklu University, Mardin Artuklu Üniversitesi
+6913, Bandırma Onyedi Eylül Üniversitesi, Bandırma Onyedi Eylül Üniversitesi
+6921, İbn Haldun Üniversitesi, İbn Haldun Üniversitesi
+6937, Sakarya Uygulamali Bilimler Üniversitesi, Sakarya Uygulamalı Bilimler Üniversitesi
+6971, Turkey Police Academy / Polis Akademisi Başkanlığı, Türkiye Polis Akademisi / Polis Akademisi Başkanlığı
+7017, Ankara Sosyal Bilimler University, Ankara Sosyal Bilimler Üniversitesi
+7053, Turkish-German University / Türk-Alman Üniversitesi, Türk-Alman Üniversitesi / Türk-Alman Üniversitesi
+7099, Milli Savunma Üniversitesi / National Defense University, Milli Savunma Üniversitesi / Milli Savunma Üniversitesi
+7133, Antalya Science University / Antalya Bilim Üniversitesi, Antalya Bilim Üniversitesi / Antalya Bilim Üniversitesi
+7253, Konya Technical University / Konya Teknik Üniversitesi, Konya Teknik Üniversitesi / Konya Teknik Üniversitesi
+7287, Kilis 7 Aralık University / December 7 University of Kilis, Kilis 7 Aralık Üniversitesi / 7 Aralık Kilis Üniversitesi
+7467, Boğaziçi University, Boğaziçi Üniversitesi
+7477, Cappadocia University / Kapadokya Üniversitesi, Kapadokya Üniversitesi / Kapadokya Üniversitesi
+7713, Ardahan University / Ardahan Üniversitesi, Ardahan Üniversitesi / Ardahan Üniversitesi
+7794, Samsun Üniversitesi, Samsun Üniversitesi
+7935, Yeni Yüzyıl University / T C İstanbul Yeni Yüzyıl Üniversitesi, Yeni Yüzyıl Üniversitesi / T C İstanbul Yeni Yüzyıl Üniversitesi
+8118, Malatya Turgut Özal University / Malatya Turgut Özal Üniversitesi, Malatya Turgut Özal Üniversitesi / Malatya Turgut Özal Üniversitesi
+8188, Beykoz University, Beykoz Üniversitesi
+8516, Lokman Hekim University, Lokman Hekim Üniversitesi
+8544, Trabzon Üniversitesi, Trabzon Üniversitesi
+8666, Toros University, Toros Üniversitesi
+8766, Ankara Medipol Üniversitesi, Ankara Medipol Üniversitesi
+8818, Istanbul 29 Mayıs University / İstanbul 29 Mayıs Üniversitesi, İstanbul 29 Mayıs Üniversitesi / İstanbul 29 Mayıs Üniversitesi
+8936, Tarsus Üniversitesi, Tarsus Üniversitesi
+8963, Ostim Technical University / Ostim Teknik Üniversitesi, Ostim Teknik Üniversitesi / Ostim Teknik Üniversitesi
+9156, Istanbul Esenyurt University, İstanbul Esenyurt Üniversitesi
+9187, Fenerbahçe Üniversitesi, F.Bahçe Üniversitesi
+9231, Hakkari University / Hakkari Üniversitesi, Hakkari Üniversitesi / Hakkari Üniversitesi
+9265, Konya Food and Agricultural University / Konya Gıda ve Tarım Üniversitesi, Konya Gıda ve Tarım Üniversitesi / Konya Gıda ve Tarım Üniversitesi
+9271, Nuh Naci Yazgan University, Nuh Naci Yazgan Üniversitesi
+9431, İstanbul Topkapı Üniversitesi, İstanbul Topkapı Üniversitesi
+9581, Kayseri Üniversitesi, Kayseri Üniversitesi
+9626, İstanbul Kent Üniversitesi, İstanbul Kent Üniversitesi
+9977, Sanko Üniversitesi, Sanko Üniversitesi
+10098, Istanbul Rumeli University / İstanbul Rumeli Üniversitesi, İstanbul Rumeli Üniversitesi / İstanbul Rumeli Üniversitesi
+10713, Ankara Fine Arts University / Ankara Müzik ve Güzel Sanatlar Üniversitesi, Ankara Güzel Sanatlar Üniversitesi / Ankara Müzik ve Güzel Sanatlar Üniversitesi
+10725, Avrasya Üniversitesi, Avrasya Üniversitesi
+11033, Jandarma ve Sahil Güvenlik Akademisi / Gendarmerie and Coast Guard Academy, Jandarma ve Sahil Güvenlik Akademisi / Jandarma ve Sahil Güvenlik Akademisi
+11246, Turkey Air Technical School / Hava Teknik Okullar Komutanlığı, Türkiye Hava Teknik Okulu / Hava Teknik Okullar Komutanlığı
+11924, Izmir Tinaztepe Üniversitesi, İzmir Tınaztepe Üniversitesi
+11989, Alanya Alaaddin Keykubat Üniversitesi, Alanya Alaaddin Keykubat Üniversitesi
+12023, Sivas Bilim Ve Teknoloji Üniversitesi, Sivas Bilim Ve Teknoloji Üniversitesi
+12082, Isparta Uygulamali Bilimler Üniversitesi, Isparta Uygulamalı Bilimler Üniversitesi
+12686, (1) İzmir Kavram Meslek Yüksekokulu, (1) İzmir Kavram Meslek Yüksekokulu
+12852, University of Turkish Aeronautical Association / Türk Hava Kurumu Üniversitesi, Türk Hava Kurumu Üniversitesi / Türk Hava Kurumu Üniversitesi
+12952, Gaziantep Islam Bilim Ve Teknoloji Üniversitesi, Gaziantep İslam Bilim Ve Teknoloji Üniversitesi
+12984, Kahramanmaraş Istiklal Üniversitesi, Kahramanmaraş İstiklal Üniversitesi
+14326, Munzur University Tunceli, Munzur Üniversitesi Tunceli
+14525, İstanbul Şişli Meslek Yüksekokulu, İstanbul Şişli Meslek Yüksekokulu
+14997, Ataşehir Adıgüzel Meslek Yüksekokulu, Ataşehir Adıgüzel Meslek Yüksekokulu
+15419, Arkin Universityn of Creative Arts ARUCAD/ Arkın Yaratıcı Sanatlar ve Tasarım Üniversitesi, Arkın Yaratıcı Sanatlar Üniversitesi ARUCAD/ Arkın Yaratıcı Sanatlar ve Tasarım Üniversitesi
+15691, Bakırçay Üniversitesi, Bakırçay Üniversitesi
+15868, Kocaeli Health and Technology University, Kocaeli Sağlık ve Teknoloji Üniversitesi
+16796, Yüksek Ihtisas Üniversitesi, Yüksek İhtisas Üniversitesi
+18538, Alanya University, Alanya Üniversitesi
+19148, Rauf Denktas University, Rauf Denktaş Üniversitesi
+19997, İstanbul Sağlık ve Sosyal Bilimler Meslek Yüksek Okulu, İstanbul Sağlık ve Sosyal Bilimler Meslek Yüksek Okulu
+21071, Antalya Belek Üniversitesi, Antalya Belek Üniversitesi
+22870, Atatürk Teachers Academy / Atatürk Öğretmen Akademisi, Atatürk Öğretmen Akademisi / Atatürk Öğretmen Akademisi
+28140, Türk Japon Bilim ve Teknoloji Üniversitesi / Turkish Japanese Science and Technology University, Türk Japon Bilim ve Teknoloji Üniversitesi / Türk Japon Bilim ve Teknoloji Üniversitesi

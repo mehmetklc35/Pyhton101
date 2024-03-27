@@ -1,0 +1,2 @@
+3. dersin sonunda örnek olarak gösterdiğim kod repository'si aşağıdaki linktedir
+https://github.com/selcukakarin/python-scripts
